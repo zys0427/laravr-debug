@@ -1,5 +1,5 @@
 <?php
-namespace Zdebug/debug;
+namespace Zdebug\debug;
 Class Zdebug{
 
 	public function debug(){
