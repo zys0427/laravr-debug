@@ -10,7 +10,7 @@
     ],
     "autoload": {	
         "psr-4": {	
-            "numberFormat\\": "src/"	
+            "Zdebug\\debug\\": "src/"	
         }	
     },	
     "license": "MIT",
